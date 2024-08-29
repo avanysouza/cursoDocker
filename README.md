@@ -6,7 +6,7 @@ Este repositório contém um projeto desenvolvido para prática dos conteúdos a
 
 Projeto denominado 'Cadastro de Usuários' contendo 3 containers relacionados à aplicação, 1 balanceador de cargas (NGINX), 1 banco de dados (MongoDB) e 1 cliente de banco de dados (Mongo Express).
 
-Estruturação dos containers no projeto:
+<b>Estruturação dos containers no projeto:<b>
 ![image](https://github.com/user-attachments/assets/3741f729-7cda-4221-9fd5-478b1e7fa077)
 
 
