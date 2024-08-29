@@ -22,4 +22,15 @@ Durante o curso foram abordados os seguintes conteúdos:
 - Persistência de dados com Docker
 - Push de imagens para o DockerHub
 - Criação de Redes no Docker
-- Docker Compose 
+- Docker Compose
+
+
+## Telas
+
+![image](https://github.com/user-attachments/assets/14f19e72-97e2-4f2c-abe6-deede0eaeefc)
+<hr>
+<b>Conheça mais sobre a minha formação e projetos desenvolvidos:<b><br>
+<br>
+<a href="https://www.linkedin.com/in/avany-souza-577457259" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+
