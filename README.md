@@ -11,6 +11,7 @@ Projeto denominado 'Cadastro de Usuários' contendo 3 containers relacionados à
 
 
 ## Conteúdos do Curso
+
 Durante o curso foram abordados os seguintes conteúdos:
 
 - Infraestrutura de Containers e Docker
